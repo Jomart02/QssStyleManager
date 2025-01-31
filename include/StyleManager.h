@@ -5,11 +5,6 @@
 #include <QJsonDocument>
 #include <QDir>
 
-class EnumCode {
-public:
-
-};
-
 class StyleManager : public QObject{
     Q_OBJECT
 public:
