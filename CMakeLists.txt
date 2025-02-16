@@ -25,7 +25,7 @@ find_package(Qt6 COMPONENTS Widgets REQUIRED)
 
 
 
-add_library(${PROJECT_NAME} SHARED ${HDRS} ${SRC})
+add_library(${PROJECT_NAME} STATIC ${HDRS} ${SRC})
 
 target_link_libraries(${PROJECT_NAME} Qt6::Widgets )
 # Указываем, что заголовочные файлы библиотеки должны быть доступны для других проектов
