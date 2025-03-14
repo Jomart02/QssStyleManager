@@ -1,3 +1,8 @@
+![Windows](https://github.com/barry-ran/QtScrcpy/workflows/Windows/badge.svg)
+![Ubuntu](https://github.com/barry-ran/QtScrcpy/workflows/Ubuntu/badge.svg)
+[![Qt](https://img.shields.io/badge/Qt-6.x-66cc00.svg)](https://www.qt.io/)
+[![C++](https://img.shields.io/badge/C%2B%2B-17.0-4c979e.svg)](https://isocpp.org/)
+
 # QssStyleManager
 StyleManager for dynamically setting qt qss styles and working with several styles simultaneously from different parts of the program (qt c++)
 
